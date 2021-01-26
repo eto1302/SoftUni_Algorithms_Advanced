@@ -1,0 +1,13 @@
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\Undefined\bin\Debug\netcoreapp3.1\Undefined.exe
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\Undefined\bin\Debug\netcoreapp3.1\Undefined.deps.json
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\Undefined\bin\Debug\netcoreapp3.1\Undefined.runtimeconfig.json
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\Undefined\bin\Debug\netcoreapp3.1\Undefined.runtimeconfig.dev.json
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\Undefined\bin\Debug\netcoreapp3.1\Undefined.dll
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\Undefined\bin\Debug\netcoreapp3.1\Undefined.pdb
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\Undefined\obj\Debug\netcoreapp3.1\Undefined.csprojAssemblyReference.cache
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\Undefined\obj\Debug\netcoreapp3.1\Undefined.AssemblyInfoInputs.cache
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\Undefined\obj\Debug\netcoreapp3.1\Undefined.AssemblyInfo.cs
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\Undefined\obj\Debug\netcoreapp3.1\Undefined.csproj.CoreCompileInputs.cache
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\Undefined\obj\Debug\netcoreapp3.1\Undefined.dll
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\Undefined\obj\Debug\netcoreapp3.1\Undefined.pdb
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\Undefined\obj\Debug\netcoreapp3.1\Undefined.genruntimeconfig.cache

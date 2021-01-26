@@ -1,0 +1,15 @@
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\CheapTownTour\bin\Debug\netcoreapp3.1\CheapTownTour.exe
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\CheapTownTour\bin\Debug\netcoreapp3.1\CheapTownTour.deps.json
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\CheapTownTour\bin\Debug\netcoreapp3.1\CheapTownTour.runtimeconfig.json
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\CheapTownTour\bin\Debug\netcoreapp3.1\CheapTownTour.runtimeconfig.dev.json
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\CheapTownTour\bin\Debug\netcoreapp3.1\CheapTownTour.dll
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\CheapTownTour\bin\Debug\netcoreapp3.1\CheapTownTour.pdb
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\CheapTownTour\bin\Debug\netcoreapp3.1\PowerCollections.dll
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\CheapTownTour\obj\Debug\netcoreapp3.1\CheapTownTour.csprojAssemblyReference.cache
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\CheapTownTour\obj\Debug\netcoreapp3.1\CheapTownTour.AssemblyInfoInputs.cache
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\CheapTownTour\obj\Debug\netcoreapp3.1\CheapTownTour.AssemblyInfo.cs
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\CheapTownTour\obj\Debug\netcoreapp3.1\CheapTownTour.csproj.CoreCompileInputs.cache
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\CheapTownTour\obj\Debug\netcoreapp3.1\CheapTownTour.csproj.CopyComplete
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\CheapTownTour\obj\Debug\netcoreapp3.1\CheapTownTour.dll
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\CheapTownTour\obj\Debug\netcoreapp3.1\CheapTownTour.pdb
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\CheapTownTour\obj\Debug\netcoreapp3.1\CheapTownTour.genruntimeconfig.cache

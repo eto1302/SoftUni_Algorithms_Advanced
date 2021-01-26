@@ -1,0 +1,13 @@
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\CableNetwork\bin\Debug\netcoreapp3.1\CableNetwork.exe
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\CableNetwork\bin\Debug\netcoreapp3.1\CableNetwork.deps.json
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\CableNetwork\bin\Debug\netcoreapp3.1\CableNetwork.runtimeconfig.json
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\CableNetwork\bin\Debug\netcoreapp3.1\CableNetwork.runtimeconfig.dev.json
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\CableNetwork\bin\Debug\netcoreapp3.1\CableNetwork.dll
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\CableNetwork\bin\Debug\netcoreapp3.1\CableNetwork.pdb
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\CableNetwork\obj\Debug\netcoreapp3.1\CableNetwork.csprojAssemblyReference.cache
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\CableNetwork\obj\Debug\netcoreapp3.1\CableNetwork.AssemblyInfoInputs.cache
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\CableNetwork\obj\Debug\netcoreapp3.1\CableNetwork.AssemblyInfo.cs
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\CableNetwork\obj\Debug\netcoreapp3.1\CableNetwork.csproj.CoreCompileInputs.cache
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\CableNetwork\obj\Debug\netcoreapp3.1\CableNetwork.dll
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\CableNetwork\obj\Debug\netcoreapp3.1\CableNetwork.pdb
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\CableNetwork\obj\Debug\netcoreapp3.1\CableNetwork.genruntimeconfig.cache

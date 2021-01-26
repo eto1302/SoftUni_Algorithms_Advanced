@@ -1,0 +1,13 @@
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\BigTrip\obj\Debug\netcoreapp3.1\BigTrip.csprojAssemblyReference.cache
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\BigTrip\obj\Debug\netcoreapp3.1\BigTrip.AssemblyInfoInputs.cache
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\BigTrip\obj\Debug\netcoreapp3.1\BigTrip.AssemblyInfo.cs
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\BigTrip\obj\Debug\netcoreapp3.1\BigTrip.csproj.CoreCompileInputs.cache
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\BigTrip\bin\Debug\netcoreapp3.1\BigTrip.exe
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\BigTrip\bin\Debug\netcoreapp3.1\BigTrip.deps.json
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\BigTrip\bin\Debug\netcoreapp3.1\BigTrip.runtimeconfig.json
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\BigTrip\bin\Debug\netcoreapp3.1\BigTrip.runtimeconfig.dev.json
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\BigTrip\bin\Debug\netcoreapp3.1\BigTrip.dll
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\BigTrip\bin\Debug\netcoreapp3.1\BigTrip.pdb
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\BigTrip\obj\Debug\netcoreapp3.1\BigTrip.dll
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\BigTrip\obj\Debug\netcoreapp3.1\BigTrip.pdb
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\02_Graphs_Exercise\BigTrip\obj\Debug\netcoreapp3.1\BigTrip.genruntimeconfig.cache
