@@ -1,0 +1,13 @@
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\04_Graphs_SCC_MaxFLow_Exercise\FindBi-ConnectedComponents\bin\Debug\netcoreapp3.1\FindBi-ConnectedComponents.exe
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\04_Graphs_SCC_MaxFLow_Exercise\FindBi-ConnectedComponents\bin\Debug\netcoreapp3.1\FindBi-ConnectedComponents.deps.json
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\04_Graphs_SCC_MaxFLow_Exercise\FindBi-ConnectedComponents\bin\Debug\netcoreapp3.1\FindBi-ConnectedComponents.runtimeconfig.json
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\04_Graphs_SCC_MaxFLow_Exercise\FindBi-ConnectedComponents\bin\Debug\netcoreapp3.1\FindBi-ConnectedComponents.runtimeconfig.dev.json
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\04_Graphs_SCC_MaxFLow_Exercise\FindBi-ConnectedComponents\bin\Debug\netcoreapp3.1\FindBi-ConnectedComponents.dll
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\04_Graphs_SCC_MaxFLow_Exercise\FindBi-ConnectedComponents\bin\Debug\netcoreapp3.1\FindBi-ConnectedComponents.pdb
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\04_Graphs_SCC_MaxFLow_Exercise\FindBi-ConnectedComponents\obj\Debug\netcoreapp3.1\FindBi-ConnectedComponents.csprojAssemblyReference.cache
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\04_Graphs_SCC_MaxFLow_Exercise\FindBi-ConnectedComponents\obj\Debug\netcoreapp3.1\FindBi-ConnectedComponents.AssemblyInfoInputs.cache
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\04_Graphs_SCC_MaxFLow_Exercise\FindBi-ConnectedComponents\obj\Debug\netcoreapp3.1\FindBi-ConnectedComponents.AssemblyInfo.cs
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\04_Graphs_SCC_MaxFLow_Exercise\FindBi-ConnectedComponents\obj\Debug\netcoreapp3.1\FindBi-ConnectedComponents.csproj.CoreCompileInputs.cache
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\04_Graphs_SCC_MaxFLow_Exercise\FindBi-ConnectedComponents\obj\Debug\netcoreapp3.1\FindBi-ConnectedComponents.dll
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\04_Graphs_SCC_MaxFLow_Exercise\FindBi-ConnectedComponents\obj\Debug\netcoreapp3.1\FindBi-ConnectedComponents.pdb
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\04_Graphs_SCC_MaxFLow_Exercise\FindBi-ConnectedComponents\obj\Debug\netcoreapp3.1\FindBi-ConnectedComponents.genruntimeconfig.cache
