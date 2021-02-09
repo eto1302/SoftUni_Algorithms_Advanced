@@ -1,0 +1,13 @@
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\06_DynamicProgramming_Advanced_Exercise\BattlePoints\bin\Debug\netcoreapp3.1\BattlePoints.exe
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\06_DynamicProgramming_Advanced_Exercise\BattlePoints\bin\Debug\netcoreapp3.1\BattlePoints.deps.json
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\06_DynamicProgramming_Advanced_Exercise\BattlePoints\bin\Debug\netcoreapp3.1\BattlePoints.runtimeconfig.json
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\06_DynamicProgramming_Advanced_Exercise\BattlePoints\bin\Debug\netcoreapp3.1\BattlePoints.runtimeconfig.dev.json
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\06_DynamicProgramming_Advanced_Exercise\BattlePoints\bin\Debug\netcoreapp3.1\BattlePoints.dll
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\06_DynamicProgramming_Advanced_Exercise\BattlePoints\bin\Debug\netcoreapp3.1\BattlePoints.pdb
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\06_DynamicProgramming_Advanced_Exercise\BattlePoints\obj\Debug\netcoreapp3.1\BattlePoints.csprojAssemblyReference.cache
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\06_DynamicProgramming_Advanced_Exercise\BattlePoints\obj\Debug\netcoreapp3.1\BattlePoints.AssemblyInfoInputs.cache
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\06_DynamicProgramming_Advanced_Exercise\BattlePoints\obj\Debug\netcoreapp3.1\BattlePoints.AssemblyInfo.cs
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\06_DynamicProgramming_Advanced_Exercise\BattlePoints\obj\Debug\netcoreapp3.1\BattlePoints.csproj.CoreCompileInputs.cache
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\06_DynamicProgramming_Advanced_Exercise\BattlePoints\obj\Debug\netcoreapp3.1\BattlePoints.dll
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\06_DynamicProgramming_Advanced_Exercise\BattlePoints\obj\Debug\netcoreapp3.1\BattlePoints.pdb
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\06_DynamicProgramming_Advanced_Exercise\BattlePoints\obj\Debug\netcoreapp3.1\BattlePoints.genruntimeconfig.cache

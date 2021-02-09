@@ -1,0 +1,13 @@
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\06_DynamicProgramming_Advanced_Exercise\Cable Merchant\bin\Debug\netcoreapp3.1\Cable Merchant.exe
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\06_DynamicProgramming_Advanced_Exercise\Cable Merchant\bin\Debug\netcoreapp3.1\Cable Merchant.deps.json
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\06_DynamicProgramming_Advanced_Exercise\Cable Merchant\bin\Debug\netcoreapp3.1\Cable Merchant.runtimeconfig.json
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\06_DynamicProgramming_Advanced_Exercise\Cable Merchant\bin\Debug\netcoreapp3.1\Cable Merchant.runtimeconfig.dev.json
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\06_DynamicProgramming_Advanced_Exercise\Cable Merchant\bin\Debug\netcoreapp3.1\Cable Merchant.dll
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\06_DynamicProgramming_Advanced_Exercise\Cable Merchant\bin\Debug\netcoreapp3.1\Cable Merchant.pdb
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\06_DynamicProgramming_Advanced_Exercise\Cable Merchant\obj\Debug\netcoreapp3.1\Cable Merchant.csprojAssemblyReference.cache
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\06_DynamicProgramming_Advanced_Exercise\Cable Merchant\obj\Debug\netcoreapp3.1\Cable Merchant.AssemblyInfoInputs.cache
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\06_DynamicProgramming_Advanced_Exercise\Cable Merchant\obj\Debug\netcoreapp3.1\Cable Merchant.AssemblyInfo.cs
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\06_DynamicProgramming_Advanced_Exercise\Cable Merchant\obj\Debug\netcoreapp3.1\Cable Merchant.csproj.CoreCompileInputs.cache
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\06_DynamicProgramming_Advanced_Exercise\Cable Merchant\obj\Debug\netcoreapp3.1\Cable Merchant.dll
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\06_DynamicProgramming_Advanced_Exercise\Cable Merchant\obj\Debug\netcoreapp3.1\Cable Merchant.pdb
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\06_DynamicProgramming_Advanced_Exercise\Cable Merchant\obj\Debug\netcoreapp3.1\Cable Merchant.genruntimeconfig.cache
