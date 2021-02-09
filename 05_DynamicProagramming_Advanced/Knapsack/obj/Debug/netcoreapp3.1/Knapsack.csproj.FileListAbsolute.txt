@@ -1,0 +1,13 @@
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\05_DynamicProagramming_Advanced\Knapsack\bin\Debug\netcoreapp3.1\Knapsack.exe
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\05_DynamicProagramming_Advanced\Knapsack\bin\Debug\netcoreapp3.1\Knapsack.deps.json
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\05_DynamicProagramming_Advanced\Knapsack\bin\Debug\netcoreapp3.1\Knapsack.runtimeconfig.json
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\05_DynamicProagramming_Advanced\Knapsack\bin\Debug\netcoreapp3.1\Knapsack.runtimeconfig.dev.json
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\05_DynamicProagramming_Advanced\Knapsack\bin\Debug\netcoreapp3.1\Knapsack.dll
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\05_DynamicProagramming_Advanced\Knapsack\bin\Debug\netcoreapp3.1\Knapsack.pdb
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\05_DynamicProagramming_Advanced\Knapsack\obj\Debug\netcoreapp3.1\Knapsack.csprojAssemblyReference.cache
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\05_DynamicProagramming_Advanced\Knapsack\obj\Debug\netcoreapp3.1\Knapsack.AssemblyInfoInputs.cache
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\05_DynamicProagramming_Advanced\Knapsack\obj\Debug\netcoreapp3.1\Knapsack.AssemblyInfo.cs
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\05_DynamicProagramming_Advanced\Knapsack\obj\Debug\netcoreapp3.1\Knapsack.csproj.CoreCompileInputs.cache
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\05_DynamicProagramming_Advanced\Knapsack\obj\Debug\netcoreapp3.1\Knapsack.dll
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\05_DynamicProagramming_Advanced\Knapsack\obj\Debug\netcoreapp3.1\Knapsack.pdb
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\05_DynamicProagramming_Advanced\Knapsack\obj\Debug\netcoreapp3.1\Knapsack.genruntimeconfig.cache

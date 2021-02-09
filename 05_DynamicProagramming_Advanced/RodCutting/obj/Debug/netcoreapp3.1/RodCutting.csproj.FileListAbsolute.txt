@@ -1,0 +1,13 @@
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\05_DynamicProagramming_Advanced\RodCutting\bin\Debug\netcoreapp3.1\RodCutting.exe
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\05_DynamicProagramming_Advanced\RodCutting\bin\Debug\netcoreapp3.1\RodCutting.deps.json
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\05_DynamicProagramming_Advanced\RodCutting\bin\Debug\netcoreapp3.1\RodCutting.runtimeconfig.json
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\05_DynamicProagramming_Advanced\RodCutting\bin\Debug\netcoreapp3.1\RodCutting.runtimeconfig.dev.json
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\05_DynamicProagramming_Advanced\RodCutting\bin\Debug\netcoreapp3.1\RodCutting.dll
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\05_DynamicProagramming_Advanced\RodCutting\bin\Debug\netcoreapp3.1\RodCutting.pdb
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\05_DynamicProagramming_Advanced\RodCutting\obj\Debug\netcoreapp3.1\RodCutting.csprojAssemblyReference.cache
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\05_DynamicProagramming_Advanced\RodCutting\obj\Debug\netcoreapp3.1\RodCutting.AssemblyInfoInputs.cache
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\05_DynamicProagramming_Advanced\RodCutting\obj\Debug\netcoreapp3.1\RodCutting.AssemblyInfo.cs
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\05_DynamicProagramming_Advanced\RodCutting\obj\Debug\netcoreapp3.1\RodCutting.csproj.CoreCompileInputs.cache
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\05_DynamicProagramming_Advanced\RodCutting\obj\Debug\netcoreapp3.1\RodCutting.dll
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\05_DynamicProagramming_Advanced\RodCutting\obj\Debug\netcoreapp3.1\RodCutting.pdb
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\05_DynamicProagramming_Advanced\RodCutting\obj\Debug\netcoreapp3.1\RodCutting.genruntimeconfig.cache
