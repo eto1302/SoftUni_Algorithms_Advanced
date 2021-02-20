@@ -1,0 +1,15 @@
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\Exam_20_02_2021\EmergencyPlan\bin\Debug\netcoreapp3.1\EmergencyPlan.exe
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\Exam_20_02_2021\EmergencyPlan\bin\Debug\netcoreapp3.1\EmergencyPlan.deps.json
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\Exam_20_02_2021\EmergencyPlan\bin\Debug\netcoreapp3.1\EmergencyPlan.runtimeconfig.json
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\Exam_20_02_2021\EmergencyPlan\bin\Debug\netcoreapp3.1\EmergencyPlan.runtimeconfig.dev.json
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\Exam_20_02_2021\EmergencyPlan\bin\Debug\netcoreapp3.1\EmergencyPlan.dll
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\Exam_20_02_2021\EmergencyPlan\bin\Debug\netcoreapp3.1\EmergencyPlan.pdb
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\Exam_20_02_2021\EmergencyPlan\bin\Debug\netcoreapp3.1\PowerCollections.dll
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\Exam_20_02_2021\EmergencyPlan\obj\Debug\netcoreapp3.1\EmergencyPlan.csprojAssemblyReference.cache
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\Exam_20_02_2021\EmergencyPlan\obj\Debug\netcoreapp3.1\EmergencyPlan.AssemblyInfoInputs.cache
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\Exam_20_02_2021\EmergencyPlan\obj\Debug\netcoreapp3.1\EmergencyPlan.AssemblyInfo.cs
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\Exam_20_02_2021\EmergencyPlan\obj\Debug\netcoreapp3.1\EmergencyPlan.csproj.CoreCompileInputs.cache
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\Exam_20_02_2021\EmergencyPlan\obj\Debug\netcoreapp3.1\EmergencyPlan.csproj.CopyComplete
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\Exam_20_02_2021\EmergencyPlan\obj\Debug\netcoreapp3.1\EmergencyPlan.dll
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\Exam_20_02_2021\EmergencyPlan\obj\Debug\netcoreapp3.1\EmergencyPlan.pdb
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\Exam_20_02_2021\EmergencyPlan\obj\Debug\netcoreapp3.1\EmergencyPlan.genruntimeconfig.cache

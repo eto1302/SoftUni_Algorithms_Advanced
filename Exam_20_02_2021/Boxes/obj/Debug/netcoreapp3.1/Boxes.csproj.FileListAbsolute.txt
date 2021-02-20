@@ -1,0 +1,13 @@
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\Exam_20_02_2021\Boxes\bin\Debug\netcoreapp3.1\Boxes.exe
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\Exam_20_02_2021\Boxes\bin\Debug\netcoreapp3.1\Boxes.deps.json
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\Exam_20_02_2021\Boxes\bin\Debug\netcoreapp3.1\Boxes.runtimeconfig.json
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\Exam_20_02_2021\Boxes\bin\Debug\netcoreapp3.1\Boxes.runtimeconfig.dev.json
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\Exam_20_02_2021\Boxes\bin\Debug\netcoreapp3.1\Boxes.dll
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\Exam_20_02_2021\Boxes\bin\Debug\netcoreapp3.1\Boxes.pdb
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\Exam_20_02_2021\Boxes\obj\Debug\netcoreapp3.1\Boxes.csprojAssemblyReference.cache
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\Exam_20_02_2021\Boxes\obj\Debug\netcoreapp3.1\Boxes.AssemblyInfoInputs.cache
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\Exam_20_02_2021\Boxes\obj\Debug\netcoreapp3.1\Boxes.AssemblyInfo.cs
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\Exam_20_02_2021\Boxes\obj\Debug\netcoreapp3.1\Boxes.csproj.CoreCompileInputs.cache
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\Exam_20_02_2021\Boxes\obj\Debug\netcoreapp3.1\Boxes.dll
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\Exam_20_02_2021\Boxes\obj\Debug\netcoreapp3.1\Boxes.pdb
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\Exam_20_02_2021\Boxes\obj\Debug\netcoreapp3.1\Boxes.genruntimeconfig.cache
