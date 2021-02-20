@@ -1,0 +1,15 @@
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\LeTourDeSofias\ChainLightning\bin\Debug\netcoreapp3.1\ChainLightning.exe
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\LeTourDeSofias\ChainLightning\bin\Debug\netcoreapp3.1\ChainLightning.deps.json
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\LeTourDeSofias\ChainLightning\bin\Debug\netcoreapp3.1\ChainLightning.runtimeconfig.json
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\LeTourDeSofias\ChainLightning\bin\Debug\netcoreapp3.1\ChainLightning.runtimeconfig.dev.json
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\LeTourDeSofias\ChainLightning\bin\Debug\netcoreapp3.1\ChainLightning.dll
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\LeTourDeSofias\ChainLightning\bin\Debug\netcoreapp3.1\ChainLightning.pdb
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\LeTourDeSofias\ChainLightning\bin\Debug\netcoreapp3.1\PowerCollections.dll
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\LeTourDeSofias\ChainLightning\obj\Debug\netcoreapp3.1\ChainLightning.csprojAssemblyReference.cache
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\LeTourDeSofias\ChainLightning\obj\Debug\netcoreapp3.1\ChainLightning.AssemblyInfoInputs.cache
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\LeTourDeSofias\ChainLightning\obj\Debug\netcoreapp3.1\ChainLightning.AssemblyInfo.cs
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\LeTourDeSofias\ChainLightning\obj\Debug\netcoreapp3.1\ChainLightning.csproj.CoreCompileInputs.cache
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\LeTourDeSofias\ChainLightning\obj\Debug\netcoreapp3.1\ChainLightning.csproj.CopyComplete
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\LeTourDeSofias\ChainLightning\obj\Debug\netcoreapp3.1\ChainLightning.dll
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\LeTourDeSofias\ChainLightning\obj\Debug\netcoreapp3.1\ChainLightning.pdb
+C:\Users\vikmar\Desktop\SoftUni\SoftUni_Algorithms_Advanced\LeTourDeSofias\ChainLightning\obj\Debug\netcoreapp3.1\ChainLightning.genruntimeconfig.cache
